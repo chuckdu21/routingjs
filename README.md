@@ -19,7 +19,9 @@ In JS side you call your PHP function by the route name you initialized in PHP.
 MapRoute(mapRouteName, functionName)
 ```
 - Initialize all the routes
-```Init()```
+```
+Init()
+```
 
 ### JS methods
 - Initialize the routing with the name of the PHP file where all the functions are located
